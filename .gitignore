@@ -3,4 +3,6 @@
 *.xls[x]
 *.csv
 *.tsv
+*.xml
+*.iml
 /data/*
